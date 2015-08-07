@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tasker</string>
+
+    <string name="title_acivity_task">TaskActivity</string>
+    <string name="task_title_hint">Enter a title for the task.</string>
+    <string name="task_title_label">Title</string>
+    <string name="task_details_label">Details</string>
+    <string name="task_status_label">Status</string>
+    <string name="task_title">Taskers</string>
+    <string name="date_picker_title">Дата Завдання</string>
+    <string name="time_picker_title">Час Завдання</string>
+    <string name="new_task">New Task</string>
+    <string name="show_subtitle">Оновити дані</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">If you see something, say something.</string>
+    <string name="delete_task">Delelte</string>
+</resources>
